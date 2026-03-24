@@ -63,12 +63,12 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **RESULT:**
 
-Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
+Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	2V supply are:
 
-a)	The voltage V1 is	0.63V
+a)	The voltage V1 is	0.66V
 
-b)	The voltage V2 is	0.18V.
+b)	The voltage V2 is	0.19V.
 
-c)	The voltage V3 is	0.45V.
+c)	The voltage V3 is	0.46V.
 
 
